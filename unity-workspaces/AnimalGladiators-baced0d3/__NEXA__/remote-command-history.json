@@ -1,0 +1,690 @@
+[
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-24T02:34:12.305Z",
+    "error": "Remote command challenge is invalid or stale."
+  },
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-24T02:34:12.117Z",
+    "error": "Remote command challenge is invalid or stale."
+  },
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-24T02:34:11.941Z",
+    "error": "Remote command challenge is invalid or stale."
+  },
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-24T02:34:11.742Z",
+    "error": "Remote command challenge is invalid or stale."
+  },
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-24T02:33:36.828Z",
+    "error": "Remote command challenge is invalid or stale."
+  },
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-24T02:33:36.650Z",
+    "error": "Remote command challenge is invalid or stale."
+  },
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-24T02:33:36.483Z",
+    "error": "Remote command challenge is invalid or stale."
+  },
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-24T02:33:36.297Z",
+    "error": "Remote command challenge is invalid or stale."
+  },
+  {
+    "command_id": "cmd_hitreaction_selfverify_1ec63ee378fd",
+    "status": "completed",
+    "completed_at": "2026-08-23T22:07:48.290Z",
+    "duration_ms": 7024,
+    "action_count": 1,
+    "changed_files": [],
+    "rollback": null,
+    "compile": null
+  },
+  {
+    "command_id": "cmd_hitreaction_runtime_aec28123a6ae",
+    "status": "failed",
+    "completed_at": "2026-08-23T22:04:14.087Z",
+    "duration_ms": 33762,
+    "action_count": 2,
+    "changed_files": [],
+    "rollback": {
+      "performed": true,
+      "reason": "unity_compile_errors",
+      "restored": [
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Resources\\NexaHitReaction.fbx.meta",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Resources\\NexaHitReaction.fbx",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\__NEXA_HIT_REACTION_FAILURE__.cs.meta",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\__NEXA_HIT_REACTION_FAILURE__.cs",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\HitReactionReceiver.cs.meta",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\HitReactionReceiver.cs",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\FighterCombat.cs"
+      ],
+      "after_rollback_compile": {
+        "unity_process_running": true,
+        "unity_version": "6000.3.22f1",
+        "is_playing": false,
+        "is_paused": false,
+        "is_compiling": false,
+        "active_scene": "AnimalGladiators_Arena",
+        "active_scene_path": "Assets/Scenes/AnimalGladiators_Arena.unity",
+        "plugin_installed": true,
+        "plugin_version": "1.6.2",
+        "plugin_expected_version": "1.6.2",
+        "plugin_update_required": false,
+        "plugin_last_update": "2026-08-23T22:04:05.9868056Z",
+        "last_playmode_event": "EnteredEditMode",
+        "last_playmode_at": "2026-08-23T21:08:10.5396029Z",
+        "compilation_phase": "idle",
+        "compilation_last_update": "2026-08-23T22:04:05.9333859Z",
+        "diagnostics_schema_version": 2,
+        "project_health": "compile_errors",
+        "compile_errors": [
+          {
+            "message": "Assets\\Scripts\\__NEXA_HIT_REACTION_FAILURE__.cs(1,120): error CS1519: Invalid token '}' in class, record, struct, or interface member declaration",
+            "code": "CS1519",
+            "source": "editor-log",
+            "occurrences": 3
+          }
+        ],
+        "compile_error_count": 1,
+        "compile_error_occurrences": 3,
+        "service_issues": [
+          {
+            "message": "[Licensing::Client] Successfully resolved entitlement details",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 88
+          },
+          {
+            "message": "[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 173
+          },
+          {
+            "message": ".[Licensing::Client] Successfully resolved entitlement details",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 2
+          },
+          {
+            "message": "[Licensing::Client] Successfully updated the access token",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 3
+          },
+          {
+            "message": "[Licensing::Module] Successfully updated access token: \"AMdIwCZb\"... (expires: 2026-08-23T18:00:47Z)",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 1
+          },
+          {
+            "message": ".[Licensing::Client] Successfully updated the access token",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 1
+          },
+          {
+            "message": "[Licensing::Module] Successfully updated access token: \"x-Ie8a21\"... (expires: 2026-08-23T20:00:07Z)",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 1
+          },
+          {
+            "message": "[Licensing::Module] Successfully updated access token: \"QIPdMhSK\"... (expires: 2026-08-23T21:59:54Z)",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 1
+          },
+          {
+            "message": "-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.Analytics.ref.dll\"",
+            "category": "unity_services",
+            "source": "editor-log",
+            "occurrences": 1
+          },
+          {
+            "message": ".[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 1
+          },
+          {
+            "message": "[Licensing::Module] Successfully updated access token: \"3I89FigN\"... (expires: 2026-08-23T23:59:15Z)",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 1
+          }
+        ],
+        "service_issue_count": 11,
+        "service_issue_occurrences": 273,
+        "licensing_issue_count": 10,
+        "licensing_issue_occurrences": 272,
+        "editor_log_redacted": true,
+        "saw_compiling": false,
+        "wait_ms": 3412
+      }
+    },
+    "compile": {
+      "unity_process_running": true,
+      "unity_version": "6000.3.22f1",
+      "is_playing": false,
+      "is_paused": false,
+      "is_compiling": false,
+      "active_scene": "AnimalGladiators_Arena",
+      "active_scene_path": "Assets/Scenes/AnimalGladiators_Arena.unity",
+      "plugin_installed": true,
+      "plugin_version": "1.6.2",
+      "plugin_expected_version": "1.6.2",
+      "plugin_update_required": false,
+      "plugin_last_update": "2026-08-23T22:03:54.8176385Z",
+      "last_playmode_event": "EnteredEditMode",
+      "last_playmode_at": "2026-08-23T21:08:10.5396029Z",
+      "compilation_phase": "finished",
+      "compilation_last_update": "2026-08-23T22:03:54.7712701Z",
+      "diagnostics_schema_version": 2,
+      "project_health": "compile_errors",
+      "compile_errors": [
+        {
+          "message": "Assets\\Scripts\\__NEXA_HIT_REACTION_FAILURE__.cs(1,120): error CS1519: Invalid token '}' in class, record, struct, or interface member declaration",
+          "code": "CS1519",
+          "source": "editor-log",
+          "occurrences": 3
+        }
+      ],
+      "compile_error_count": 1,
+      "compile_error_occurrences": 3,
+      "service_issues": [
+        {
+          "message": "[Licensing::Client] Successfully resolved entitlement details",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 88
+        },
+        {
+          "message": "[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 173
+        },
+        {
+          "message": ".[Licensing::Client] Successfully resolved entitlement details",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 2
+        },
+        {
+          "message": "[Licensing::Client] Successfully updated the access token",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 3
+        },
+        {
+          "message": "[Licensing::Module] Successfully updated access token: \"AMdIwCZb\"... (expires: 2026-08-23T18:00:47Z)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": ".[Licensing::Client] Successfully updated the access token",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": "[Licensing::Module] Successfully updated access token: \"x-Ie8a21\"... (expires: 2026-08-23T20:00:07Z)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": "[Licensing::Module] Successfully updated access token: \"QIPdMhSK\"... (expires: 2026-08-23T21:59:54Z)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": "-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.Analytics.ref.dll\"",
+          "category": "unity_services",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": ".[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": "[Licensing::Module] Successfully updated access token: \"3I89FigN\"... (expires: 2026-08-23T23:59:15Z)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        }
+      ],
+      "service_issue_count": 11,
+      "service_issue_occurrences": 273,
+      "licensing_issue_count": 10,
+      "licensing_issue_occurrences": 272,
+      "editor_log_redacted": true,
+      "saw_compiling": true,
+      "wait_ms": 4330
+    }
+  },
+  {
+    "command_id": "cmd_hitreaction_psfinal_d16edd9c436e",
+    "status": "failed",
+    "completed_at": "2026-08-23T21:59:07.018Z",
+    "duration_ms": 199717,
+    "action_count": 2,
+    "changed_files": [],
+    "rollback": {
+      "performed": true,
+      "reason": "unity_compile_errors",
+      "restored": [
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\.nexa-bridge\\hit-reaction-setup.json",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Editor\\NexaHitReactionSetup.cs.meta",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Editor\\NexaHitReactionSetup.cs",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Characters\\Wolf\\Meshy_AI_Alpha_Howl_biped_Animation_Hit_Reaction_1_withSkin.fbx.meta",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Characters\\Wolf\\Meshy_AI_Alpha_Howl_biped_Animation_Hit_Reaction_1_withSkin.fbx",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Animations\\WolfAnimator.controller",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\__NEXA_HIT_REACTION_FAILURE__.cs.meta",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\__NEXA_HIT_REACTION_FAILURE__.cs",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\HitReactionReceiver.cs.meta",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\HitReactionReceiver.cs",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\FighterCombat.cs"
+      ],
+      "after_rollback_compile": {
+        "unity_process_running": true,
+        "unity_version": "6000.3.22f1",
+        "is_playing": false,
+        "is_paused": false,
+        "is_compiling": false,
+        "active_scene": "AnimalGladiators_Arena",
+        "active_scene_path": "Assets/Scenes/AnimalGladiators_Arena.unity",
+        "plugin_installed": true,
+        "plugin_version": "1.6.2",
+        "plugin_expected_version": "1.6.2",
+        "plugin_update_required": false,
+        "plugin_last_update": "2026-08-23T21:59:06.1216016Z",
+        "last_playmode_event": "EnteredEditMode",
+        "last_playmode_at": "2026-08-23T21:08:10.5396029Z",
+        "compilation_phase": "finished",
+        "compilation_last_update": "2026-08-23T21:59:06.1006175Z",
+        "diagnostics_schema_version": 2,
+        "project_health": "compile_errors",
+        "compile_errors": [
+          {
+            "message": "Assets\\Scripts\\__NEXA_HIT_REACTION_FAILURE__.cs(1,120): error CS1519: Invalid token '}' in class, record, struct, or interface member declaration",
+            "code": "CS1519",
+            "source": "editor-log",
+            "occurrences": 3
+          }
+        ],
+        "compile_error_count": 1,
+        "compile_error_occurrences": 3,
+        "service_issues": [
+          {
+            "message": "requested entitlement ids)",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 1
+          },
+          {
+            "message": "[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 161
+          },
+          {
+            "message": "[Licensing::Client] Successfully resolved entitlement details",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 90
+          },
+          {
+            "message": ".[Licensing::Client] Successfully resolved entitlement details",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 2
+          },
+          {
+            "message": "[Licensing::Client] Successfully updated the access token",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 2
+          },
+          {
+            "message": "[Licensing::Module] Successfully updated access token: \"AMdIwCZb\"... (expires: 2026-08-23T18:00:47Z)",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 1
+          },
+          {
+            "message": ".[Licensing::Client] Successfully updated the access token",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 1
+          },
+          {
+            "message": "[Licensing::Module] Successfully updated access token: \"x-Ie8a21\"... (expires: 2026-08-23T20:00:07Z)",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 1
+          },
+          {
+            "message": "[Licensing::Module] Successfully updated access token: \"QIPdMhSK\"... (expires: 2026-08-23T21:59:54Z)",
+            "category": "unity_licensing",
+            "source": "editor-log",
+            "occurrences": 1
+          },
+          {
+            "message": "-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.Analytics.ref.dll\"",
+            "category": "unity_services",
+            "source": "editor-log",
+            "occurrences": 1
+          }
+        ],
+        "service_issue_count": 10,
+        "service_issue_occurrences": 261,
+        "licensing_issue_count": 9,
+        "licensing_issue_occurrences": 260,
+        "editor_log_redacted": true,
+        "saw_compiling": true,
+        "wait_ms": 5166
+      }
+    },
+    "compile": {
+      "unity_process_running": true,
+      "unity_version": "6000.3.22f1",
+      "is_playing": false,
+      "is_paused": false,
+      "is_compiling": false,
+      "active_scene": "AnimalGladiators_Arena",
+      "active_scene_path": "Assets/Scenes/AnimalGladiators_Arena.unity",
+      "plugin_installed": true,
+      "plugin_version": "1.6.2",
+      "plugin_expected_version": "1.6.2",
+      "plugin_update_required": false,
+      "plugin_last_update": "2026-08-23T21:58:59.6397316Z",
+      "last_playmode_event": "EnteredEditMode",
+      "last_playmode_at": "2026-08-23T21:08:10.5396029Z",
+      "compilation_phase": "finished",
+      "compilation_last_update": "2026-08-23T21:58:56.2595057Z",
+      "diagnostics_schema_version": 2,
+      "project_health": "compile_errors",
+      "compile_errors": [
+        {
+          "message": "Assets\\Scripts\\__NEXA_HIT_REACTION_FAILURE__.cs(1,120): Assets\\Scripts\\__NEXA_HIT_REACTION_FAILURE__.cs(1,120): error CS1519: Invalid token '}' in class, record, struct, or interface member declaration",
+          "code": "CS1519",
+          "source": "unity-plugin",
+          "occurrences": 1
+        },
+        {
+          "message": "Assets\\Scripts\\__NEXA_HIT_REACTION_FAILURE__.cs(1,120): error CS1519: Invalid token '}' in class, record, struct, or interface member declaration",
+          "code": "CS1519",
+          "source": "editor-log",
+          "occurrences": 3
+        }
+      ],
+      "compile_error_count": 2,
+      "compile_error_occurrences": 4,
+      "service_issues": [
+        {
+          "message": "[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 166
+        },
+        {
+          "message": "[Licensing::Client] Successfully resolved entitlement details",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 93
+        },
+        {
+          "message": ".[Licensing::Client] Successfully resolved entitlement details",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 2
+        },
+        {
+          "message": "[Licensing::Client] Successfully updated the access token",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 2
+        },
+        {
+          "message": "[Licensing::Module] Successfully updated access token: \"AMdIwCZb\"... (expires: 2026-08-23T18:00:47Z)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": ".[Licensing::Client] Successfully updated the access token",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": "[Licensing::Module] Successfully updated access token: \"x-Ie8a21\"... (expires: 2026-08-23T20:00:07Z)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": "[Licensing::Module] Successfully updated access token: \"QIPdMhSK\"... (expires: 2026-08-23T21:59:54Z)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": "-r:\"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.Analytics.ref.dll\"",
+          "category": "unity_services",
+          "source": "editor-log",
+          "occurrences": 1
+        }
+      ],
+      "service_issue_count": 9,
+      "service_issue_occurrences": 268,
+      "licensing_issue_count": 8,
+      "licensing_issue_occurrences": 267,
+      "editor_log_redacted": true,
+      "saw_compiling": false,
+      "wait_ms": 3421
+    }
+  },
+  {
+    "command_id": "cmd_hitreaction_ps_c971bf6ee88f",
+    "status": "completed",
+    "completed_at": "2026-08-23T21:44:01.692Z",
+    "duration_ms": 9959,
+    "action_count": 2,
+    "changed_files": [],
+    "rollback": null,
+    "compile": {
+      "unity_process_running": true,
+      "unity_version": "6000.3.22f1",
+      "is_playing": false,
+      "is_paused": false,
+      "is_compiling": false,
+      "active_scene": "AnimalGladiators_Arena",
+      "active_scene_path": "Assets/Scenes/AnimalGladiators_Arena.unity",
+      "plugin_installed": true,
+      "plugin_version": "1.6.2",
+      "plugin_expected_version": "1.6.2",
+      "plugin_update_required": false,
+      "plugin_last_update": "2026-08-23T21:44:01.2631981Z",
+      "last_playmode_event": "EnteredEditMode",
+      "last_playmode_at": "2026-08-23T21:08:10.5396029Z",
+      "compilation_phase": "idle",
+      "compilation_last_update": "2026-08-23T21:07:32.0049685Z",
+      "diagnostics_schema_version": 2,
+      "project_health": "service_issues",
+      "compile_errors": [],
+      "compile_error_count": 0,
+      "compile_error_occurrences": 0,
+      "service_issues": [
+        {
+          "message": "[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 190
+        },
+        {
+          "message": "[Licensing::Client] Successfully resolved entitlement details",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 117
+        },
+        {
+          "message": ".[Licensing::Client] Successfully resolved entitlement details",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 2
+        },
+        {
+          "message": "[Licensing::Client] Successfully updated the access token",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 2
+        },
+        {
+          "message": "[Licensing::Module] Successfully updated access token: \"AMdIwCZb\"... (expires: 2026-08-23T18:00:47Z)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": ".[Licensing::Client] Successfully updated the access token",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": "[Licensing::Module] Successfully updated access token: \"x-Ie8a21\"... (expires: 2026-08-23T20:00:07Z)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        },
+        {
+          "message": "[Licensing::Module] Successfully updated access token: \"QIPdMhSK\"... (expires: 2026-08-23T21:59:54Z)",
+          "category": "unity_licensing",
+          "source": "editor-log",
+          "occurrences": 1
+        }
+      ],
+      "service_issue_count": 8,
+      "service_issue_occurrences": 315,
+      "licensing_issue_count": 8,
+      "licensing_issue_occurrences": 315,
+      "editor_log_redacted": true,
+      "saw_compiling": false,
+      "wait_ms": 3398
+    }
+  },
+  {
+    "command_id": "cmd_stage_hitreact_p1c_1b53083691f1",
+    "status": "failed",
+    "completed_at": "2026-08-23T21:33:07.297Z",
+    "duration_ms": 12,
+    "action_count": 1,
+    "changed_files": [],
+    "rollback": {
+      "performed": false,
+      "reason": "action_error",
+      "restored": []
+    },
+    "compile": null
+  },
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-23T21:30:54.694Z",
+    "error": "Remote command challenge is invalid or stale."
+  },
+  {
+    "command_id": "cmd_hitreaction_final2_aa892a602be3",
+    "status": "failed",
+    "completed_at": "2026-08-23T21:27:54.287Z",
+    "duration_ms": 308,
+    "action_count": 9,
+    "changed_files": [],
+    "rollback": {
+      "performed": true,
+      "reason": "action_error",
+      "restored": [
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Characters\\Wolf\\Meshy_AI_Alpha_Howl_biped_Animation_Hit_Reaction_1_withSkin.fbx.meta",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Characters\\Wolf\\Meshy_AI_Alpha_Howl_biped_Animation_Hit_Reaction_1_withSkin.fbx",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Animations\\WolfAnimator.controller",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\HitReactionReceiver.cs",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\FighterCombat.cs"
+      ]
+    },
+    "compile": null
+  },
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-23T21:26:08.510Z",
+    "error": "Remote command challenge is invalid or stale."
+  },
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-23T21:24:52.793Z",
+    "error": "POP3 connection timed out."
+  },
+  {
+    "command_id": "cmd_hitreaction_final_d53bb2c50f20",
+    "status": "failed",
+    "completed_at": "2026-08-23T21:23:41.771Z",
+    "duration_ms": 60908,
+    "action_count": 9,
+    "changed_files": [
+      "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\.nexa-transfer\\hit_reaction.part01"
+    ],
+    "rollback": {
+      "performed": true,
+      "reason": "action_error",
+      "restored": [
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\.nexa-transfer\\hit_reaction.part01",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Characters\\Wolf\\Meshy_AI_Alpha_Howl_biped_Animation_Hit_Reaction_1_withSkin.fbx.meta",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Characters\\Wolf\\Meshy_AI_Alpha_Howl_biped_Animation_Hit_Reaction_1_withSkin.fbx",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Animations\\WolfAnimator.controller",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\HitReactionReceiver.cs",
+        "D:\\UnityProjects\\AnimalGladiators\\AnimalGladiators\\Assets\\Scripts\\FighterCombat.cs"
+      ]
+    },
+    "compile": null
+  },
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-23T21:21:54.479Z",
+    "error": "694464:error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT:..\\..\\third_party\\boringssl\\src\\crypto\\fipsmodule\\cipher\\e_aes.cc.inc:861:\n"
+  },
+  {
+    "command_id": "",
+    "status": "rejected_or_failed",
+    "completed_at": "2026-08-23T21:21:25.679Z",
+    "error": "694464:error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT:..\\..\\third_party\\boringssl\\src\\crypto\\fipsmodule\\cipher\\e_aes.cc.inc:861:\n"
+  }
+]

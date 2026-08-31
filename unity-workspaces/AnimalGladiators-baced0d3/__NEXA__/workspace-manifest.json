@@ -1,0 +1,23 @@
+{
+  "workspace_uuid": "unity_21ef6b59e8a6dfd6f14dba12baced0d3",
+  "name": "AnimalGladiators",
+  "project_version": "6000.3.22f1",
+  "stats": {
+    "file_count": 341,
+    "text_files": 249,
+    "cs": 22,
+    "scenes": 6,
+    "prefabs": 3,
+    "materials": 7,
+    "shaders": 0,
+    "configs": 46,
+    "compile_error_count": 0,
+    "compile_error_occurrences": 0,
+    "service_issue_count": 6,
+    "service_issue_occurrences": 12,
+    "licensing_issue_count": 4,
+    "licensing_issue_occurrences": 10,
+    "truncated": false
+  },
+  "generated_at": "2026-08-31T16:27:11.331Z"
+}

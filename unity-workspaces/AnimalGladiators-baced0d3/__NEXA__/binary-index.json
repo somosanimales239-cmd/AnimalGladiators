@@ -1,0 +1,597 @@
+[
+  {
+    "path": ".vsconfig",
+    "kind": "file",
+    "extension": "",
+    "size_bytes": 96,
+    "modified_at": "2026-08-16T22:43:00.352Z"
+  },
+  {
+    "path": "AnimalGladiators.slnx",
+    "kind": "file",
+    "extension": ".slnx",
+    "size_bytes": 125,
+    "modified_at": "2026-08-16T22:43:00.477Z"
+  },
+  {
+    "path": "UpgradeLog.htm",
+    "kind": "log",
+    "extension": ".htm",
+    "size_bytes": 16949,
+    "modified_at": "2026-08-17T01:11:24.541Z"
+  },
+  {
+    "path": "UserSettings/Search.index",
+    "kind": "file",
+    "extension": ".index",
+    "size_bytes": 287,
+    "modified_at": "2026-08-16T22:43:21.297Z"
+  },
+  {
+    "path": "UserSettings/Search.settings",
+    "kind": "file",
+    "extension": ".settings",
+    "size_bytes": 1862,
+    "modified_at": "2026-08-17T00:32:49.265Z"
+  },
+  {
+    "path": "UserSettings/Layouts/CurrentMaximizeLayout.dwlt",
+    "kind": "file",
+    "extension": ".dwlt",
+    "size_bytes": 38211,
+    "modified_at": "2026-08-22T22:46:30.889Z"
+  },
+  {
+    "path": "UserSettings/Layouts/default-6000.dwlt",
+    "kind": "file",
+    "extension": ".dwlt",
+    "size_bytes": 51466,
+    "modified_at": "2026-08-30T05:41:34.170Z"
+  },
+  {
+    "path": "Logs/AssetImportWorker0-prev.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 24440,
+    "modified_at": "2026-08-19T22:35:40.651Z"
+  },
+  {
+    "path": "Logs/AssetImportWorker0.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 67630531,
+    "modified_at": "2026-08-28T02:17:01.932Z"
+  },
+  {
+    "path": "Logs/AssetImportWorker1-prev.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 17841,
+    "modified_at": "2026-08-19T22:35:40.652Z"
+  },
+  {
+    "path": "Logs/AssetImportWorker1.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 67607123,
+    "modified_at": "2026-08-28T02:17:01.932Z"
+  },
+  {
+    "path": "Logs/Packages-Update.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 2030,
+    "modified_at": "2026-08-16T22:12:26.842Z"
+  },
+  {
+    "path": "Logs/shadercompiler-AssetImportWorker0-0.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 88141,
+    "modified_at": "2026-08-30T05:41:39.467Z"
+  },
+  {
+    "path": "Logs/shadercompiler-AssetImportWorker1-0.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 57543,
+    "modified_at": "2026-08-30T05:41:39.513Z"
+  },
+  {
+    "path": "Logs/shadercompiler-UnityShaderCompiler.exe-0.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 28957,
+    "modified_at": "2026-08-23T05:56:37.514Z"
+  },
+  {
+    "path": "Logs/shadercompiler-UnityShaderCompiler.exe-1.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 21737,
+    "modified_at": "2026-08-30T05:41:39.079Z"
+  },
+  {
+    "path": "Logs/shadercompiler-UnityShaderCompiler.exe-2.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 15495,
+    "modified_at": "2026-08-30T05:41:39.160Z"
+  },
+  {
+    "path": "Logs/shadercompiler-UnityShaderCompiler.exe-3.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 21054,
+    "modified_at": "2026-08-30T05:41:39.160Z"
+  },
+  {
+    "path": "Logs/shadercompiler-UnityShaderCompiler.exe-4.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 24121,
+    "modified_at": "2026-08-30T05:41:39.160Z"
+  },
+  {
+    "path": "Logs/shadercompiler-UnityShaderCompiler.exe-5.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 3362,
+    "modified_at": "2026-08-30T05:41:39.127Z"
+  },
+  {
+    "path": "Logs/shadercompiler-UnityShaderCompiler.exe-6.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 1280,
+    "modified_at": "2026-08-30T05:41:39.118Z"
+  },
+  {
+    "path": "Logs/shadercompiler-UnityShaderCompiler.exe-7.log",
+    "kind": "log",
+    "extension": ".log",
+    "size_bytes": 4036,
+    "modified_at": "2026-08-30T05:41:39.151Z"
+  },
+  {
+    "path": "Logs/traces.jsonl",
+    "kind": "log",
+    "extension": ".jsonl",
+    "size_bytes": 23955,
+    "modified_at": "2026-08-30T05:41:34.892Z"
+  },
+  {
+    "path": "Assets/_Recovery/AnimalGladiators_Arena.scenetemplate",
+    "kind": "file",
+    "extension": ".scenetemplate",
+    "size_bytes": 8429,
+    "modified_at": "2026-08-23T15:27:22.071Z"
+  },
+  {
+    "path": "Assets/TutorialInfo/Layout.wlt",
+    "kind": "file",
+    "extension": ".wlt",
+    "size_bytes": 15479,
+    "modified_at": "2025-01-30T19:19:37.000Z"
+  },
+  {
+    "path": "Assets/TutorialInfo/Icons/URP.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 24069,
+    "modified_at": "2025-01-30T19:19:37.000Z"
+  },
+  {
+    "path": "Assets/Resources/NexaHitReaction.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25092860,
+    "modified_at": "2026-08-23T20:04:45.000Z"
+  },
+  {
+    "path": "Assets/Environment/Terrain/Meshy_AI_Mossy_Stone_Plateau_0823003347_texture.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 164959100,
+    "modified_at": "2026-08-23T04:34:32.000Z"
+  },
+  {
+    "path": "Assets/Environment/Terrain/Meshy_AI_Mossy_Stone_Plateau_0823003347_texture.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 83646584,
+    "modified_at": "2026-08-23T04:33:46.000Z"
+  },
+  {
+    "path": "Assets/Environment/Terrain/Meshy_AI_Mossy_Stone_Plateau_0823003347_texture_metallic.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 894051,
+    "modified_at": "2026-08-23T04:33:46.000Z"
+  },
+  {
+    "path": "Assets/Environment/Terrain/Meshy_AI_Mossy_Stone_Plateau_0823003347_texture_normal.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 17502619,
+    "modified_at": "2026-08-23T04:33:46.000Z"
+  },
+  {
+    "path": "Assets/Environment/Terrain/Meshy_AI_Mossy_Stone_Plateau_0823003347_texture_roughness.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 4857222,
+    "modified_at": "2026-08-23T04:33:46.000Z"
+  },
+  {
+    "path": "Assets/Environment/Butterflies/Butterfly_01.glb",
+    "kind": "file",
+    "extension": ".glb",
+    "size_bytes": 14194180,
+    "modified_at": "2026-08-23T14:14:43.202Z"
+  },
+  {
+    "path": "Assets/Environment/Butterflies/Butterfly_02.glb",
+    "kind": "file",
+    "extension": ".glb",
+    "size_bytes": 34092208,
+    "modified_at": "2026-08-23T14:46:00.192Z"
+  },
+  {
+    "path": "Assets/Environment/Butterflies/Butterfly_03.glb",
+    "kind": "file",
+    "extension": ".glb",
+    "size_bytes": 3115272,
+    "modified_at": "2026-08-23T14:52:12.619Z"
+  },
+  {
+    "path": "Assets/Environment/Birds/Duck/Meshy_AI_Character_output.glb",
+    "kind": "file",
+    "extension": ".glb",
+    "size_bytes": 115339216,
+    "modified_at": "2026-08-23T05:38:45.702Z"
+  },
+  {
+    "path": "Assets/Environment/Birds/Duck/Meshy_AI_Mallard_in_Flight_0823045922_texture.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 65733116,
+    "modified_at": "2026-08-23T04:59:40.000Z"
+  },
+  {
+    "path": "Assets/Environment/Birds/Duck/Meshy_AI_Mallard_in_Flight_0823045922_texture.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 64856959,
+    "modified_at": "2026-08-23T04:59:21.000Z"
+  },
+  {
+    "path": "Assets/Environment/Birds/Duck/Meshy_AI_Mallard_in_Flight_0823045922_texture_metallic.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 1614009,
+    "modified_at": "2026-08-23T04:59:22.000Z"
+  },
+  {
+    "path": "Assets/Environment/Birds/Duck/Meshy_AI_Mallard_in_Flight_0823045922_texture_normal.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 14916885,
+    "modified_at": "2026-08-23T04:59:22.000Z"
+  },
+  {
+    "path": "Assets/Environment/Birds/Duck/Meshy_AI_Mallard_in_Flight_0823045922_texture_roughness.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 3793896,
+    "modified_at": "2026-08-23T04:59:22.000Z"
+  },
+  {
+    "path": "Assets/Environment/Background/MountainBackground.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 2425576,
+    "modified_at": "2026-08-23T04:01:18.157Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Lobo JumpBackward.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25112460,
+    "modified_at": "2026-08-17T06:17:13.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_360_Power_Spin_Jump_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25130668,
+    "modified_at": "2026-08-17T14:55:39.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Backflip_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25112460,
+    "modified_at": "2026-08-17T06:17:13.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Block1_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25132156,
+    "modified_at": "2026-08-17T05:45:33.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Boxing_Guard_Right_Straight_Kick_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25098348,
+    "modified_at": "2026-08-17T05:08:22.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Charged_Spell_Cast_1_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25147196,
+    "modified_at": "2026-08-18T23:21:42.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_CrouchLookAroundBow_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25155004,
+    "modified_at": "2026-08-17T14:12:39.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Flying_Fist_Kick_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25157932,
+    "modified_at": "2026-08-18T07:15:47.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Hit_Reaction_1_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25092860,
+    "modified_at": "2026-08-23T20:04:45.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Jumping_Punch_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25124364,
+    "modified_at": "2026-08-17T07:30:05.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Left_Hook_from_Guard_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25089436,
+    "modified_at": "2026-08-18T22:47:08.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Punch_Combo_1_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25112876,
+    "modified_at": "2026-08-17T03:27:59.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Punch_Combo_5_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25140476,
+    "modified_at": "2026-08-18T06:17:28.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Punch_Combo_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25118332,
+    "modified_at": "2026-08-17T04:09:05.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Regular_Jump_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25107948,
+    "modified_at": "2026-08-17T14:33:14.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Roundhouse_Kick_withSkin 1.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25122092,
+    "modified_at": "2026-08-19T00:24:07.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Roundhouse_Kick_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25122092,
+    "modified_at": "2026-08-18T08:58:46.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Running_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25089980,
+    "modified_at": "2026-08-16T19:07:42.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Skill_03_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25105068,
+    "modified_at": "2026-08-17T07:57:49.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_slide_right_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25106044,
+    "modified_at": "2026-08-18T09:27:01.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Spartan_Kick_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25098732,
+    "modified_at": "2026-08-17T05:23:45.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Step_in_High_Kick_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25096524,
+    "modified_at": "2026-08-18T08:43:34.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Sweeping_Kick_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25115852,
+    "modified_at": "2026-08-18T07:46:57.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Walking_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25098316,
+    "modified_at": "2026-08-16T19:07:42.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Animation_Walk_Backward_with_Sword_inplace_withSkin.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25096092,
+    "modified_at": "2026-08-17T08:41:17.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Meshy_AI_Meshy_Merged_Animations.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25366668,
+    "modified_at": "2026-08-17T01:33:58.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Meshy_AI_Meshy_Merged_Animations@Boxing.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25631296,
+    "modified_at": "2026-08-18T21:14:28.382Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Meshy_AI_Meshy_Merged_Animations@Hook Punch.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25647312,
+    "modified_at": "2026-08-18T21:53:23.426Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Meshy_AI_Meshy_Merged_Animations@Pontera.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25619984,
+    "modified_at": "2026-08-18T19:48:10.104Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Meshy_AI_Alpha_Howl_biped_Meshy_AI_Meshy_Merged_Animations@Surprise Uppercut.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25700144,
+    "modified_at": "2026-08-18T23:59:40.446Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Textures/Meshy_AI_Alpha_Howl_biped_Meshy_AI_Meshy_Merged_Animations.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 25366668,
+    "modified_at": "2026-08-17T01:33:58.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Textures/Meshy_AI_Alpha_Howl_biped_texture_0.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 24303737,
+    "modified_at": "2026-08-17T01:33:55.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Textures/Meshy_AI_Alpha_Howl_biped_texture_0_metallic.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 1603503,
+    "modified_at": "2026-08-17T01:33:55.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Textures/Meshy_AI_Alpha_Howl_biped_texture_0_normal.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 22921656,
+    "modified_at": "2026-08-17T01:33:55.000Z"
+  },
+  {
+    "path": "Assets/Characters/Wolf/Textures/Meshy_AI_Alpha_Howl_biped_texture_0_roughness.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 3195558,
+    "modified_at": "2026-08-17T01:33:55.000Z"
+  },
+  {
+    "path": "Assets/Characters/Toro/Textures/Meshy_AI_Ironhide_Minotaur_biped_texture_0.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 117258773,
+    "modified_at": "2026-08-22T04:47:11.000Z"
+  },
+  {
+    "path": "Assets/Characters/Toro/Textures/Meshy_AI_Ironhide_Minotaur_biped_texture_0_metallic.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 3470074,
+    "modified_at": "2026-08-22T04:47:09.000Z"
+  },
+  {
+    "path": "Assets/Characters/Toro/Textures/Meshy_AI_Ironhide_Minotaur_biped_texture_0_normal.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 29748412,
+    "modified_at": "2026-08-22T04:47:10.000Z"
+  },
+  {
+    "path": "Assets/Characters/Toro/Textures/Meshy_AI_Ironhide_Minotaur_biped_texture_0_roughness.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 4815072,
+    "modified_at": "2026-08-22T04:47:10.000Z"
+  },
+  {
+    "path": "Assets/Characters/Toro/Textures/Meshy_AI_Ironhide_Minotaur_MetallicSmoothness.png",
+    "kind": "image",
+    "extension": ".png",
+    "size_bytes": 14261435,
+    "modified_at": "2026-08-22T20:24:27.422Z"
+  },
+  {
+    "path": "Assets/Characters/Toro/Model/Toro Idle.fbx",
+    "kind": "model",
+    "extension": ".fbx",
+    "size_bytes": 124156396,
+    "modified_at": "2026-08-22T05:28:29.000Z"
+  },
+  {
+    "path": "Assets/Animations/NexaHitReactionMask.mask",
+    "kind": "file",
+    "extension": ".mask",
+    "size_bytes": 363,
+    "modified_at": "2026-08-24T04:41:31.405Z"
+  },
+  {
+    "path": ".nexa-transfer/hit_reaction.part00",
+    "kind": "file",
+    "extension": ".part00",
+    "size_bytes": 12582912,
+    "modified_at": "2026-08-23T20:27:17.025Z"
+  }
+]

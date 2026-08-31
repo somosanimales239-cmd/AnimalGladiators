@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "command_id": "cmd_hitreaction_selfverify_1ec63ee378fd",
+  "status": "completed",
+  "started_at": "2026-08-23T22:07:41.266Z",
+  "completed_at": "2026-08-23T22:07:48.290Z",
+  "duration_ms": 7024,
+  "action_count": 1,
+  "result": {
+    "ok": true,
+    "changed_files": [],
+    "actions": [
+      {
+        "index": 0,
+        "action": "run_powershell",
+        "ok": true,
+        "result": {
+          "executable": "powershell.exe",
+          "exit_code": 0,
+          "stdout": "NEXA_HIT_REACTION_SUCCESS\r\nRESOURCE_GUID=e1c28b81c87442ffa7bce768370d7855\r\n",
+          "stderr": "",
+          "output_truncated": false
+        }
+      }
+    ],
+    "compile": null,
+    "rollback": null
+  },
+  "attachments_received": [],
+  "result_delivery": {
+    "ok": true,
+    "transport": "smtps-email",
+    "message_id": "<0079de48117b916a2c04ed9a@nexa-local-bridge>"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-08-31T16:27:11.329Z",
+  "project_health": "service_issues",
+  "compile_errors": [],
+  "compile_error_count": 0,
+  "compile_error_occurrences": 0,
+  "service_issues": [
+    {
+      "message": "[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)",
+      "category": "unity_licensing",
+      "source": "editor-log",
+      "occurrences": 7
+    },
+    {
+      "message": "[Licensing::Client] Successfully resolved entitlement details",
+      "category": "unity_licensing",
+      "source": "editor-log",
+      "occurrences": 1
+    },
+    {
+      "message": "[Licensing::IpcConnector] LicenseClient-Home-6000.3.22-notifications channel disconnected successfully.",
+      "category": "unity_licensing",
+      "source": "editor-log",
+      "occurrences": 1
+    },
+    {
+      "message": "[Licensing::IpcConnector] LicenseClient-Home-6000.3.22 channel disconnected successfully.",
+      "category": "unity_licensing",
+      "source": "editor-log",
+      "occurrences": 1
+    },
+    {
+      "message": "[Package Manager] Server process was shutdown",
+      "category": "package_manager",
+      "source": "editor-log",
+      "occurrences": 1
+    },
+    {
+      "message": "##utp:{\"type\":\"MemoryLeaks\",\"version\":2,\"phase\":\"Immediate\",\"time\":1788068503942,\"processId\":6712,\"allocatedMemory\":66929321,\"memoryLabels\":[{\"Default\":29317},{\"Permanent\":15236},{\"NewDelete\":194717},{\"Thread\":4241544},{\"Manager\":823256},{\"VertexData\":8},{\"Geometry\":816},{\"Texture\":504312},{\"Shader\":101171},{\"Material\":3852},{\"GfxDevice\":57912},{\"GfxThread\":10752},{\"Animation\":392},{\"Audio\":3040},{\"FreeType\":8},{\"FontEngine\":736},{\"Physics\":2146},{\"Physics2D\":16},{\"Serialization\":13994344},{\"Input\":14984},{\"JobScheduler\":33024},{\"TextLib\":7672},{\"Mono\":32},{\"MonoCode\":704},{\"ScriptingNativeRuntime\":155060},{\"BaseObject\":1618256},{\"Resource\":1336},{\"Renderer\":3000},{\"Transform\":4685},{\"File\":71224},{\"WebCam\":616},{\"Culling\":32},{\"Terrain\":11394},{\"Wind\":24},{\"STL\":40},{\"String\":10879},{\"DynamicArray\":116455},{\"HashMap\":534951},{\"Utility\":2660018},{\"Curl\":48},{\"PoolAlloc\":3016},{\"AI\":80},{\"TypeTree\":30888077},{\"ScriptManager\":512},{\"RuntimeInitializeOnLoadManager\":64},{\"SpriteAtlas\":112},{\"GI\":7792},{\"Director\":8240},{\"CloudService\":6592},{\"WebRequest\":15890},{\"VR\":47994},{\"SceneManager\":504},{\"Video\":208},{\"LazyScriptCache\":32},{\"NativeArray\":170868},{\"Camera\":17},{\"Secure\":265},{\"SerializationCache\":1576},{\"APIUpdating\":10320},{\"Subsystems\":336},{\"VirtualTexturing\":57888},{\"StaticSafetyDebugInfo\":278528},{\"Analytics\":464},{\"Hierarchy\":608},{\"CoreStats\":13112},{\"Identifiers\":6480},{\"Gui\":268280},{\"EditorUtility\":739114},{\"VersionControl\":4},{\"Undo\":947},{\"AssetDatabase\":9127486},{\"EditorGi\":328},{\"UnityConnect\":29432},{\"Upm\":1972},{\"AssetCompliance\":64},{\"DrivenProperties\":7",
+      "category": "unity_services",
+      "source": "editor-log",
+      "occurrences": 1
+    }
+  ],
+  "service_issue_count": 6,
+  "service_issue_occurrences": 12,
+  "licensing_issue_count": 4,
+  "licensing_issue_occurrences": 10,
+  "editor_log_redacted": true
+}

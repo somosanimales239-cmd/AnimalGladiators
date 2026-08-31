@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "transport": "pop3s-email",
+  "enabled": true,
+  "configured": true,
+  "poll_seconds": 15,
+  "channel_id": "channel_8bb56630e013763f5c6b683c8350365a",
+  "challenge": "challenge_88d024c67518b82786e373d5582614b93cf5a1a4b966f858",
+  "challenge_created_at": "2026-08-31T16:24:53.261Z",
+  "challenge_expires_at": "2026-09-01T16:24:53.268Z",
+  "command_subject_prefix": "[NEXA-CMD]",
+  "supported_delivery": "gzip+base64 command block in text email body",
+  "security": {
+    "tls_certificate_validation": true,
+    "exact_sender_allowlist": true,
+    "sender_authentication_header_check": true,
+    "cryptographic_dkim_verification": true,
+    "command_attachments": true,
+    "smtp_result_delivery": true,
+    "one_time_challenge": true,
+    "command_expiration": true,
+    "replay_ledger": true,
+    "hostinger_permission_gates": true,
+    "allowed_folder_enforcement": true,
+    "transactional_file_backups": true
+  },
+  "policy": {
+    "bridge_enabled": true,
+    "emergency_stop": false,
+    "full_computer_mode": true,
+    "permissions": {
+      "read_files": true,
+      "write_files": true,
+      "cmd": false,
+      "powershell": true,
+      "python": false,
+      "git": false,
+      "browser": true,
+      "screenshots": true,
+      "blender": false,
+      "local_servers": true
+    }
+  },
+  "state": "idle",
+  "last_check_at": "2026-08-31T16:27:09.142Z",
+  "last_command_id": "",
+  "last_command_status": "",
+  "processed_count": 0
+}
